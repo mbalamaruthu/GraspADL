@@ -3,8 +3,8 @@
    <description name="Grasp ADL" url="https://raw.githubusercontent.com/mbalamaruthu/GraspADL/master/site.xml">
       grasp adl toolkit
    </description>
-   <feature url="features/GraspADL_1.0.0.201405312039.jar" id="GraspADL" version="1.0.0.201405312039">
-      <category name="GraspADL"/>
+   <feature url="features/GraspADL_1.0.0.201405312110.jar" id="GraspADL" version="1.0.0.201405312110">
+      <category name="GraspADLToolkit"/>
    </feature>
-   <category-def name="GraspADL" label="GraspADL"/>
+   <category-def name="GraspADLToolkit" label="GraspADLToolkit"/>
 </site>
