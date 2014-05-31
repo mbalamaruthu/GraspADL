@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Grasp ADL" url="http://mbalamaruthu@code.google.com/p/graspadltoolkit/">
+      grasp adl toolkit
+   </description>
+   <feature url="features/GraspADL_1.0.0.201405311835.jar" id="GraspADL" version="1.0.0.201405311835"/>
+</site>
