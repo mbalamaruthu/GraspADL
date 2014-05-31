@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="Grasp ADL" url="http://mbalamaruthu@code.google.com/p/graspadltoolkit/">
+   <description name="Grasp ADL" url="https://raw.githubusercontent.com/mbalamaruthu/GraspADL/master/site.xml">
       grasp adl toolkit
    </description>
-   <feature url="features/GraspADL_1.0.0.201405311835.jar" id="GraspADL" version="1.0.0.201405311835"/>
+   <feature url="features/GraspADL_1.0.0.201405312039.jar" id="GraspADL" version="1.0.0.201405312039">
+      <category name="GraspADL"/>
+   </feature>
+   <category-def name="GraspADL" label="GraspADL"/>
 </site>
